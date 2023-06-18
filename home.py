@@ -264,8 +264,5 @@ def profies():
      l.place(x=40)
 
 
-
-
-
 profies()
 root.mainloop()
